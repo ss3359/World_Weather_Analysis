@@ -6,7 +6,7 @@ The CEO has some reccomendations to imporve the app. In particular, The CEO want
 
 
 # Results
-
+The first step to generate the layer maps is to generate a set of latitudes and longitudes, obtain the nearest city, and generate a API call with the software called OpenWeatherMap.  
 
 
 
